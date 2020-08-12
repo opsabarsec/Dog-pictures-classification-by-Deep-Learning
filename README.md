@@ -1,5 +1,5 @@
 # dogs_breed_imagerecognition
-<img width="512" alt="Cane" src="https://github.com/opsabarsec/dogs_breed_imagerecognition/blob/master/predicted.png">
+<img width="250" alt="Cane" src="https://github.com/opsabarsec/dogs_breed_imagerecognition/blob/master/predicted.png">
 deeplearning application to identify dog breed from Stanford dataset using a convolutional neural network.
  This repository includes
 Model files to buils an app in Android
