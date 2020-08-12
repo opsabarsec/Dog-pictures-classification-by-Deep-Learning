@@ -1,6 +1,5 @@
 # dogs_breed_imagerecognition
-
-!(https://github.com/opsabarsec/dogs_breed_imagerecognition/blob/master/predicted.png)
+<img src="./predict.png>
 
 deeplearning application to identify dog breed from Stanford dataset using a convolutional neural network.
  This repository includes
