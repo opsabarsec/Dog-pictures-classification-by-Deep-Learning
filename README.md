@@ -30,7 +30,7 @@ The same has been deployed to an API, with the result illustrated in this [video
 The [Android app](https://youtu.be/BlDMGTFu-hM) needs further work to improve its accuracy since it runs on camera signal rather than on a picture.
 ![dognet](dognet.png)
 
-Full model and results explanation was provided in a [presentation](https://github.com/opsabarsec/Dog-pictures-classification-by-Deep-Learning/blob/master/documentation/presentation/P6_presentation.pdf).
+The full explanation of the model and of the results is provided in a [presentation](https://github.com/opsabarsec/Dog-pictures-classification-by-Deep-Learning/blob/master/documentation/presentation/P6_presentation.pdf).
 
 
 
