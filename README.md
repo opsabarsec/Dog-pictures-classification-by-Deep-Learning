@@ -22,10 +22,14 @@ Based on Xception convolutional neural network.
 
 provides 85% accuracy. 
 
-The model has been saved to a file and can be loaded in a matter of seconds, then run on [Google Colabs](https://colab.research.google.com/drive/1kcAFOSreOd_68WF5gdvoQOceld7cAwrX) to identify the breed of any uploaded dog picture. The same has been deployed to an API, with the result illustrated in this [video](https://www.youtube.com/watch?v=1YKuf0ddEGE). 
+The model has been saved to a file and can be loaded in a matter of seconds.
+It can be run on [Google Colabs](https://colab.research.google.com/drive/1kcAFOSreOd_68WF5gdvoQOceld7cAwrX) to identify the breed of any uploaded dog picture. 
+The same has been deployed to an API, with the result illustrated in this [video](https://www.youtube.com/watch?v=1YKuf0ddEGE). 
 
-Full explanation is provided in a [presentation](https://github.com/opsabarsec/Dog-pictures-classification-by-Deep-Learning/blob/master/documentation/presentation/P6_presentation.pdf).
 
-The Android app needs further work to improve its accuracy since it runs on camera signal rather than on a picture.
+The [Android app](https://youtu.be/BlDMGTFu-hM) needs further work to improve its accuracy since it runs on camera signal rather than on a picture.
+
+Full model and results explanation was provided in a [presentation](https://github.com/opsabarsec/Dog-pictures-classification-by-Deep-Learning/blob/master/documentation/presentation/P6_presentation.pdf).
+
 
 
