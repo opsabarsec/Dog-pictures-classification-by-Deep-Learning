@@ -15,7 +15,7 @@ In a further step an Android app can be built based on the same.
 
 Having a good training dataset is a huge step towards the robust model. There is [Stanford Dogs Dataset](https://www.kaggle.com/jessicali9530/stanford-dogs-dataset) with ~20K images of dogs of 120 breeds. Every image in the dataset is annotated with the breed of a dog displayed on it. 
 
-## 3 The model
+## 3. The model
 [Full code](https://github.com/opsabarsec/Dog-pictures-classification-by-Deep-Learning/blob/master/notebooks/Stanford_dogs_classifier_part2.ipynb)
 Based on Xception convolutional neural network, this model 
 
@@ -32,6 +32,12 @@ The [Android app](https://youtu.be/BlDMGTFu-hM) was built using TensorFlow Lite 
 ![dognet](dognet.png)
 
 The full explanation of the model and of the results is provided in a [presentation](https://github.com/opsabarsec/Dog-pictures-classification-by-Deep-Learning/blob/master/documentation/presentation/P6_presentation.pdf).
+
+## 4. Conclusions
+
+- Efficient breed recognition can be obtained through a web API, posting a picture and obtaining the most probable 5 breeds in matter of seconds.
+
+- A model has been developed for Android devices. The Kotlin code still runs only on camera signal rather than on a photo.
 
 
 
