@@ -28,7 +28,7 @@ It can be run on [Google Colabs](https://colab.research.google.com/drive/1kcAFOS
 The same has been deployed to an API, the is result illustrated in this [video](https://www.youtube.com/watch?v=1YKuf0ddEGE). 
 
 
-The [Android app](https://youtu.be/BlDMGTFu-hM) was built using TensorFlow Lite but it needs further work to improve accuracy. The main issue is that it runs directly on the camera signal rather than on a picture.
+The [Android app](https://youtu.be/BlDMGTFu-hM) was built using TensorFlow Lite and importing the model files into Android Studio.
 ![dognet](dognet.png)
 
 The full explanation of the model and of the results is provided in a [presentation](https://github.com/opsabarsec/Dog-pictures-classification-by-Deep-Learning/blob/master/documentation/presentation/P6_presentation.pdf).
@@ -37,7 +37,7 @@ The full explanation of the model and of the results is provided in a [presentat
 
 - Efficient breed recognition can be obtained through a web API, posting a picture and obtaining the most probable 5 breeds in matter of seconds.
 
-- A model has been developed for Android devices. The Kotlin code still runs only on camera signal rather than on a photo.
+- An app, DogNet, for Android devices has been developed and deployed to Google Play . 
 
 
 
