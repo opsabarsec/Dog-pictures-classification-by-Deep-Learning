@@ -29,6 +29,7 @@ The same has been deployed to an API, the is result illustrated in this [video](
 
 
 The [Android app](https://youtu.be/BlDMGTFu-hM) was built using TensorFlow Lite and importing the model files into Android Studio.
+
 ![dognet](dognet.png)
 
 The full explanation of the model and of the results is provided in a [presentation](https://github.com/opsabarsec/Dog-pictures-classification-by-Deep-Learning/blob/master/documentation/presentation/P6_presentation.pdf).
