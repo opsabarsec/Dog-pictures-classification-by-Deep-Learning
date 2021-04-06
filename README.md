@@ -38,7 +38,7 @@ The full explanation of the model and of the results is provided in a [presentat
 
 - Efficient breed recognition can be obtained through a web API, posting a picture and obtaining the most probable 5 breeds in matter of seconds.
 
-- An app for Android devices, DogNet, has been developed and deployed to Google Play . 
+- An app for Android devices, OpenDogNet, has been developed and deployed to Google Play . 
 
 
 
