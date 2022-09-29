@@ -1,4 +1,4 @@
-# Dogs breed imagerecognition CNN 
+# Dogs breed image recognition CNN 
 
 ## 1. Background
 A dog shelter needs an automatic system to identify dog breeds and possibly match hybrids to the most probable breeds.
